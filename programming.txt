@@ -1,0 +1,4 @@
+I love programming.
+I love creating with it.
+I also love finding meaning in large datasets.
+I love building stuff with Python.
